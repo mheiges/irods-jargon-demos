@@ -1,4 +1,6 @@
+Example usage of iRODS Jargon
 
+Complements the irods installation provisioned on https://github.com/mheiges/vagrant-irods_ugm2015
 
 ## Compile
 
