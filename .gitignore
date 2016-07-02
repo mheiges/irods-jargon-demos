@@ -1,0 +1,7 @@
+target
+.classpath
+.DS_Store
+*.war
+*.log
+*/test-output
+*.*~
